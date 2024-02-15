@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home1.css'
-import Navbar from '../../Navbar/page';
+
 import Constant from '../Constant/page';
 const page = () => {
   return (
