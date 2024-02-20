@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Navbar from '../Navbar/page';
 import React from 'react';
 import sense from '../../public/image2.png';
 import Image from 'next/image'

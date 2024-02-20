@@ -41,7 +41,6 @@
 
 // export default page
 import Link from 'next/link';
-import Navbar from '../Navbar/page';
 import React from 'react';
 import sense from '../../public/image3.png';
 import './Home4.css'

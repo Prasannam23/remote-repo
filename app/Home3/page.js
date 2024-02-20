@@ -46,7 +46,7 @@
 // export default page
 // {/* <span className='text-purple-600'> */}
 import Link from 'next/link';
-import Navbar from '../Navbar/page';
+// import Navbar from '../Navbar/page';
 import React from 'react';
 import sense from '../../public/image2.png';
 import './Home3.css'
